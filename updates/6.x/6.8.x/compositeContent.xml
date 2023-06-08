@@ -2,12 +2,13 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='ContextMapper DSL Composite Site 6.8.x' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1686212372016'/>
+    <property name='p2.timestamp' value='1686213271939'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='3'>
+  <children size='4'>
     <child location='../../../releases/6.8.1.202306080645'/>
     <child location='../../../releases/6.8.1.202306080810'/>
     <child location='../../../releases/6.8.1.202306080818'/>
+    <child location='../../../releases/6.8.1.202306080832'/>
   </children>
 </repository>
