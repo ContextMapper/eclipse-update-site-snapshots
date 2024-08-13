@@ -2,13 +2,14 @@
 <?compositeArtifactRepository version='1.0.0'?>
 <repository name='ContextMapper DSL Composite Site 6.11.x' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1723215503808'/>
+    <property name='p2.timestamp' value='1723547121496'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='4'>
+  <children size='5'>
     <child location='../../../releases/6.11.0.202401111213'/>
     <child location='../../../releases/6.11.1.202401111223'/>
     <child location='../../../releases/6.11.1.202408091420'/>
     <child location='../../../releases/6.11.1.202408091456'/>
+    <child location='../../../releases/6.11.1.202408131103'/>
   </children>
 </repository>
